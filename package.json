@@ -1,0 +1,25 @@
+{
+  "name": "rockpaperscissordeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deoderin/RockPaperScissorDeploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deoderin/RockPaperScissorDeploy/issues"
+  },
+  "homepage": "https://github.com/Deoderin/RockPaperScissorDeploy#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.63.0",
+    "telegraf": "^4.16.3"
+  }
+}
